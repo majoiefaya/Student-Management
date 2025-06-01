@@ -1,4 +1,4 @@
-# 🎓 Student Bulletin – Application de gestion des étudiants (Tkinter)
+# Student Bulletin – Application de gestion des étudiants (Tkinter)
 
 > Une application bureautique développée en **Python** avec **Tkinter** permettant de gérer les étudiants, leurs notes et de générer des bulletins scolaires. Interface simple, intuitive et locale.
 
@@ -11,17 +11,17 @@
 
 ---
 
-## 🎯 Fonctionnalités principales
+## Fonctionnalités principales
 
-- 🧑‍🎓 Enregistrement des étudiants avec informations personnelles
-- 📝 Ajout des notes par matière
-- 📊 Calcul automatique des moyennes
-- 🗃️ Gestion des matières, classes et bulletins
-- 📄 Génération d’un bulletin au format lisible et imprimable
+- Enregistrement des étudiants avec informations personnelles
+- Ajout des notes par matière
+- Calcul automatique des moyennes
+- Gestion des matières, classes et bulletins
+- Génération d’un bulletin au format lisible et imprimable
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Élément         | Détail                         |
 |-----------------|---------------------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🧪 Lancer le projet localement
+## Lancer le projet localement
 
 ```bash
 # 1. Cloner le dépôt
@@ -49,10 +49,25 @@ python main.py
 
 ---
 
-## 📸 Capture d’écran
+## Capture d’écran
 
 <p align="center">
-  <img src="https://github.com/majoiefaya/Student-Bulletin/blob/main/app_presentation.png?raw=true" width="600" alt="Aperçu application"/>
+  <table>
+    <tr>
+      <td align="center">Accueil du bulletin<br/>
+        <img src="https://github.com/majoiefaya/Student-Management/blob/main/ASSETS/images/bulletin_accueil.png?raw=true" width="300"/>
+      </td>
+      <td align="center">Infos élèves<br/>
+        <img src="https://github.com/majoiefaya/Student-Management/blob/main/ASSETS/images/info_seleves.png?raw=true" width="300"/>
+      </td>
+      <td align="center">Bulletin par matière<br/>
+        <img src="https://github.com/majoiefaya/Student-Management/blob/main/ASSETS/images/bulletin_matieres.png?raw=true" width="300"/>
+      </td>
+      <td align="center">Interrogation<br/>
+        <img src="https://github.com/majoiefaya/Student-Management/blob/main/ASSETS/images/Interrogation.png?raw=true" width="300"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---

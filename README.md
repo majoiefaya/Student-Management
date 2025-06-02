@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Terminé-brightgreen?style=flat-square" alt="Status"/>
 </p>
 
----
+<h3 align="center">• • •</h3>
 
 ## Fonctionnalités principales
 
@@ -19,7 +19,7 @@
 - Gestion des matières, classes et bulletins
 - Génération d’un bulletin au format lisible et imprimable
 
----
+<h3 align="center">• • •</h3>
 
 ## Technologies utilisées
 
@@ -31,7 +31,7 @@
 | Export          | tkinter + gestion locale        |
 | Déploiement     | PyInstaller (exécutable .exe)   |
 
----
+<h3 align="center">• • •</h3>
 
 ## Lancer le projet localement
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
+<h3 align="center">• • •</h3>
 
 ## Capture d’écran
 
@@ -70,7 +70,7 @@ python main.py
   </table>
 </p>
 
----
+<h3 align="center">• • •</h3>
 
 ## 📦 Générer un exécutable (.exe)
 
@@ -83,14 +83,14 @@ pyinstaller --onefile --windowed main.py
 
 Le fichier `.exe` final est disponible dans le dossier `dist/`.
 
----
+<h3 align="center">• • •</h3>
 
 ## 📄 Licence
 
 Application personnelle développée par **Faya Lidao Majoie**.  
 Utilisation libre à des fins éducatives ou personnelles.
 
----
+<h3 align="center">• • •</h3>
 
 ## ☕ Me soutenir
 
